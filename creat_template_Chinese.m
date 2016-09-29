@@ -1,14 +1,15 @@
 clc;
 close all;
 clear all;
-%¾©½ò»¦Óå¼½
-%Ô¥ÔÆÁÉºÚÏæ
-%ÍîÂ³ËÕ¸ÓÕã
-%ÔÁ¶õ¹ð¸Ê½ú
-%ÃÉÉÂ¼ªÃö¹ó
-%Çà²Ø´¨ÄþÐÂ
-%ÇíÔÆÓå¾©¼½
-%»¦ÔÆ²Ø
+%Chinese characters
+%äº¬æ´¥æ²ªæ¸å†€
+%è±«äº‘è¾½é»‘æ¹˜
+%çš–é²è‹èµ£æµ™
+%ç²¤é„‚æ¡‚ç”˜æ™‹
+%è’™é™•å‰é—½è´µ
+%é’è—å·å®æ–°
+%ç¼äº‘æ¸äº¬å†€
+%æ²ªäº‘è—
 Chinese = cell(1,38);
 for a=1:38
     cname = strcat('sample_CNB\',int2str(a),'.bmp');
