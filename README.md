@@ -1,4 +1,4 @@
-# Matlab-Licence-Plates-Recognition
+# Licence Plates Recognition based on Matlab
 
 Test img: https://github.com/WangHongshuo/Licence-Plates-Recognition-Qt/tree/master/test_img
 
